@@ -1,5 +1,6 @@
 #include <string.h>
 #include "../include/facekid.h"
+#include "../include/md5.h"
 
 #define Nb 4  // number of columns
 #define Nk 4  // number of 32-bit words in key
